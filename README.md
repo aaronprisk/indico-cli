@@ -8,7 +8,7 @@ This isn't considered a complete client for Indico by any means (though it could
 ## Usage
 
 ```
-git clone https://github.com/kewisch/indico-cli
+git clone https://github.com/aaronprisk/indico-cli
 cd indico-cli
 
 pipx install --editable .[dev]
